@@ -3,6 +3,8 @@
 
 *Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author IETF TLS & W3C DID Standards — Collaborative Tools & Patterns*
 
+[![Open Integrity](https://img.shields.io/static/v1?label=Open%20Integrity&message=did%3Arepo%3A53749864a50fa9b5328c70ae8b405d03e21a5e73&color=F05032&logo=git&logoColor=%23F05032)](https://github.com/ChristopherA/ChristopherA/commit/53749864a50fa9b5328c70ae8b405d03e21a5e73)
+
 <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=@ChristopherA&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 
 <a href="https://github.com/BlockchainCommons"><img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"></a> <a href="https://github.com/sponsors/BlockchainCommons"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
