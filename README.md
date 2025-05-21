@@ -3,7 +3,7 @@
 
 *Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author IETF TLS & W3C DID Standards — Collaborative Tools & Patterns*
 
-[![Open Integrity](https://img.shields.io/static/v1?label=Open%20Integrity&message=did%3Arepo%3A53749864a50fa9b5328c70ae8b405d03e21a5e73&color=F05032&logo=git&logoColor=%23F05032)](https://github.com/ChristopherA/ChristopherA/commit/53749864a50fa9b5328c70ae8b405d03e21a5e73)
+[![Open Integrity](https://img.shields.io/static/v1?label=Open%20Integrity&message=did%3Arepo%3A53749864a50fa9b5328c70ae8b405d03e21a5e73&color=F05032&logo=git&logoColor=%23F05032)](https://github.com/ChristopherA/ChristopherA/commit/53749864a50fa9b5328c70ae8b405d03e21a5e73) [![SSH Signing Keys Registered on GitHub](https://img.shields.io/static/v1?label=SSH%20Signing%20Keys&message=Registered&color=28A745&logo=github&logoColor=white&style=flat)](https://api.github.com/users/ChristopherA/ssh_signing_keys)
 
 <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=@ChristopherA&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 
